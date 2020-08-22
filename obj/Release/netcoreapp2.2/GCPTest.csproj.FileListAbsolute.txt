@@ -1,0 +1,14 @@
+/home/trooper/GCPTest/bin/Release/netcoreapp2.2/GCPTest.deps.json
+/home/trooper/GCPTest/bin/Release/netcoreapp2.2/GCPTest.runtimeconfig.json
+/home/trooper/GCPTest/bin/Release/netcoreapp2.2/GCPTest.runtimeconfig.dev.json
+/home/trooper/GCPTest/bin/Release/netcoreapp2.2/GCPTest.dll
+/home/trooper/GCPTest/bin/Release/netcoreapp2.2/GCPTest.pdb
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.csprojAssemblyReference.cache
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.csproj.CoreCompileInputs.cache
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.RazorAssemblyInfo.cache
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.RazorAssemblyInfo.cs
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.AssemblyInfoInputs.cache
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.AssemblyInfo.cs
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.RazorTargetAssemblyInfo.cache
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.dll
+/home/trooper/GCPTest/obj/Release/netcoreapp2.2/GCPTest.pdb

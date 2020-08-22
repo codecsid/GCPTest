@@ -14,7 +14,17 @@ namespace GCPTest
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            string port = Environment.GetEnvironmentVariable("PORT");
+            if(string.IsNullOrWhiteSpace(port))
+                port = "8080";
+            new WebHostBuilder()
+            .UseKestrel()
+            .UseContentRoot(Directory.GetCurrentDirectory())
+            .UseIISIntegration()
+            .UseStartup<Startup>()
+            .UseUrls($"http://localhost:{port}/")
+            .Build()
+            .Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
