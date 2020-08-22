@@ -22,7 +22,7 @@ namespace GCPTest
             .UseContentRoot(Directory.GetCurrentDirectory())
             .UseIISIntegration()
             .UseStartup<Startup>()
-            .UseUrls($"http://localhost:{port}/")
+            .UseUrls($"http://0.0.0.0:{port}/")
             .Build()
             .Run();
         }
