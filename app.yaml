@@ -1,5 +1,5 @@
 
-runtime: custom
+runtime: aspnetcore
 env: flex
 
 manual_scaling:
